@@ -57,3 +57,7 @@ ul {
 li + li {
   margin-top: 12px;
 }
+
+strong {
+  color: #90D5FF;
+}
