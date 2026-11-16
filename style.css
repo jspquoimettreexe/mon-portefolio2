@@ -63,5 +63,6 @@ strong {
 }
 
 .gras {
-  color: white;
+  color: black;
+  font-weight: bold;
 }
