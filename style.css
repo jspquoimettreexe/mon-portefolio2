@@ -34,8 +34,9 @@ header {
 }
 
 section {
-  background: white;
+  background: #0F172A;
   border-radius: 0 0 8px 8px;
+  color:white;
 }
 
 h1 {
